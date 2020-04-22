@@ -1,3 +1,4 @@
 const ejemplo = 32;
 const ejemploB = 43;
-console.log('Hola holita caracolita ${ejemplo}${ejemploB}');   
+const ejemploC = 54;
+console.log('Hola holita caracolita ${ejemplo} - ${ejemploC} - ${ejemploB}');   
